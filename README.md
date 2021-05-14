@@ -19,4 +19,4 @@ Recently, I am very interested in game development and I try to work on some of 
 
 [source-repos]: https://github.com/FurkanKambay?tab=repositories&type=source
 [unity-source-repos]: https://github.com/FurkanKambay?tab=repositories&q=topic%3Aunity&type=source
-[hack-the-box]: https://www.hackthebox.eu/profile/122166
+[hack-the-box]: https://app.hackthebox.eu/profile/122166
