@@ -12,7 +12,7 @@ Check out the games on [my itch.io][itch-profile]!
 | ------------- | ------------- |
 | Personal project ([GitHub repo][github-tulip]) | GMTK Game Jam 2024 entry (ranked 13th in Style) |
 | [![Project Tulip on itch.io][itch-badge]](https://furkankambay.itch.io/tulip) | [![Playing By Ear on itch.io][itch-badge]][itch-playing-by-ear] |
-| [<img src="https://img.itch.zone/aW1hZ2UvMjgyOTg2OS8xNzI4NjkzMS5naWY=/250x600/WfyqMy.gif" width=400 alt="combat in Project Tulip">][itch-tulip] | [<img src="https://img.itch.zone/aW1hZ2UvMjkwOTQ4OC8xNzQ2MDU3My5naWY=/original/6O6%2BL1.gif" width=400 alt="Playing By Ear gameplay">](https://thevan4.itch.io/playing-by-ear) |
+| [<img src="https://img.itch.zone/aW1hZ2UvMjgyOTg2OS8xNzI4NjkzMS5naWY=/250x600/WfyqMy.gif" width=380 alt="combat in Project Tulip">][itch-tulip] | [<img src="https://img.itch.zone/aW1hZ2UvMjkwOTQ4OC8xNzQ2MDU3My5naWY=/original/6O6%2BL1.gif" width=380 alt="Playing By Ear gameplay">](https://thevan4.itch.io/playing-by-ear) |
 
 
 ### My interests
