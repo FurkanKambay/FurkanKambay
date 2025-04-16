@@ -7,8 +7,8 @@ I love game design & development. Check out [my itch.io][itch-profile]!
 | **Project Tulip** | **Playing By Ear** |
 | ------------- | ------------- |
 | Personal project ([GitHub repo][github-tulip]) | GMTK Game Jam 2024 team entry (ranked #110) |
-| [![Project Tulip on itch.io][itch-badge]](https://furkankambay.itch.io/tulip) | [![Playing By Ear on itch.io][itch-badge]][itch-playing-by-ear] |
-| [<img src="https://img.itch.zone/aW1hZ2UvMjgyOTg2OS8xNzI4NjkzMS5naWY=/250x600/WfyqMy.gif" width=380 alt="combat in Project Tulip">][itch-tulip] | [<img src="https://img.itch.zone/aW1hZ2UvMjkwOTQ4OC8xNzQ2MDU3My5naWY=/original/6O6%2BL1.gif" width=380 alt="Playing By Ear gameplay">](https://thevan4.itch.io/playing-by-ear) |
+| [<img src="https://static.itch.io/images/badge-color.svg" height="48px"></img>][itch-tulip] | [<img src="https://static.itch.io/images/badge-color.svg" height="48px"></img>][itch-playing-by-ear] |
+| [<img src="https://img.itch.zone/aW1hZ2UvMjgyOTg2OS8xNzI4NjkzMS5naWY=/250x600/WfyqMy.gif" width=380 alt="combat in Project Tulip">][itch-tulip] | [<img src="https://img.itch.zone/aW1hZ2UvMjkwOTQ4OC8xNzQ2MDU3My5naWY=/original/6O6%2BL1.gif" width=380 alt="Playing By Ear gameplay">][itch-playing-by-ear] |
 
 
 ### My interests
@@ -24,7 +24,6 @@ I love game design & development. Check out [my itch.io][itch-profile]!
 [itch-tulip]: https://furkankambay.itch.io/tulip
 [itch-playing-by-ear]: https://thevan4.itch.io/playing-by-ear
 
-[itch-badge]: https://img.shields.io/badge/play_on_itch.io!-fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=fff
 [itch-profile]: https://furkankambay.itch.io/
 [source-repos]: https://github.com/FurkanKambay?tab=repositories&type=source
 [unity-source-repos]: https://github.com/FurkanKambay?tab=repositories&q=topic%3Aunity%2Cgodot&type=source
