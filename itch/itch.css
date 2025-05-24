@@ -1,0 +1,189 @@
+@charset "UTF-8";
+
+/* Pitch - https://nnda.itch.io/pitch */
+
+#wrapper {
+    --b: var(--itchio_bg_color);
+    --btn: var(--itchio_button_color);
+    --btn_f: var(--itchio_button_fg_color);
+    --b2: var(--itchio_bg2_color);
+    --t: var(--itchio_text_color);
+    --l: var(--itchio_link_color);
+    --br: var(--itchio_border_color);
+}
+
+.custom-tip {
+    position: relative
+}
+
+.custom-tip:has(> img) {
+    display: inline-block
+}
+
+.custom-tip:has(> img)>img {
+    position: relative
+}
+
+.custom-tip>.custom-tip-content {
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    height: fit-content;
+    padding: .2em .5em;
+    color: var(--t);
+    background: var(--b2);
+    border: 1px solid var(--br);
+    border-radius: 6px;
+    pointer-events: none;
+    white-space: nowrap;
+    z-index: 99;
+    transition: .25s;
+    opacity: 0;
+    transform: translate(-50%, 100%)
+}
+
+.custom-tip>.custom-tip-content.custom-top {
+    bottom: 100%;
+    transform: translate(-50%, 0)
+}
+
+.custom-tip>.custom-tip-content.custom-left {
+    left: 0;
+    bottom: 50%;
+    transform: translate(-100%, 50%)
+}
+
+.custom-tip>.custom-tip-content.custom-right {
+    left: 100%;
+    bottom: 50%;
+    transform: translate(0, 50%)
+}
+
+.custom-tip:hover>.custom-tip-content {
+    opacity: 1;
+    transform: translate(-50%, calc(100% + .5em))
+}
+
+.custom-tip:hover>.custom-tip-content.custom-top {
+    transform: translate(-50%, -.5em)
+}
+
+.custom-tip:hover>.custom-tip-content.custom-left {
+    transform: translate(calc(-100% - .5em), 50%)
+}
+
+.custom-tip:hover>.custom-tip-content.custom-right {
+    transform: translate(.5em, 50%)
+}
+
+abbr.custom-tip {
+    text-decoration: 2px underline dotted var(--l)
+}
+
+a.custom-link-ext {
+    padding-right: 1.25em
+}
+
+a.custom-link-ext::after {
+    position: absolute;
+    display: inline-block;
+    content: ".";
+    width: 1em;
+    margin-top: .2em;
+    margin-left: .25em;
+    background: currentColor;
+    mask-size: 1em;
+    -webkit-mask-size: 1em;
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+    --ext-i: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3C!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--%3E%3Cpath d='M352 0c-12.9 0-24.6 7.8-29.6 19.8s-2.2 25.7 6.9 34.9L370.7 96 201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L416 141.3l41.4 41.4c9.2 9.2 22.9 11.9 34.9 6.9s19.8-16.6 19.8-29.6l0-128c0-17.7-14.3-32-32-32L352 0zM80 32C35.8 32 0 67.8 0 112L0 432c0 44.2 35.8 80 80 80l320 0c44.2 0 80-35.8 80-80l0-112c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 112c0 8.8-7.2 16-16 16L80 448c-8.8 0-16-7.2-16-16l0-320c0-8.8 7.2-16 16-16l112 0c17.7 0 32-14.3 32-32s-14.3-32-32-32L80 32z'/%3E%3C/svg%3E");
+    mask-image: var(--ext-i);
+    -webkit-mask-image: var(--ext-i)
+}
+
+.custom-lb {
+    background: var(--btn);
+    color: var(--btn_f);
+    text-decoration: none;
+    padding: .2ch 1ch;
+    margin: .15em;
+    font-weight: 700;
+    border-radius: 4px;
+    line-height: 1em;
+    display: inline-block
+}
+
+.custom-lb>img {
+    height: 1em;
+    vertical-align: bottom
+}
+
+small.custom-lb {
+    font-size: .6em
+}
+
+a.custom-lb {
+    color: var(--btn_f)
+}
+
+.custom-grouped-lb {
+    white-space: nowrap
+}
+
+.custom-grouped-lb>.custom-lb {
+    border-radius: 0;
+    margin: 0
+}
+
+.custom-grouped-lb>.custom-lb:first-child {
+    border-radius: 12px 0 0 12px
+}
+
+.custom-grouped-lb>.custom-lb:last-child {
+    border-radius: 0 12px 12px 0
+}
+
+.custom-grouped-lb>.custom-lb:not(:last-child) {
+    margin-right: .1em
+}
+
+/* Game cells */
+
+.game_grid_widget {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 16px;
+    align-items: stretch;
+}
+
+.game_cell {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    border-radius: 0;
+    color: #fff;
+    background-color: #2F3133;
+    background-image:
+        radial-gradient(circle at 1px 1px, rgba(255, 255, 255, 0.1) 1px, transparent 0),
+        radial-gradient(circle at 7px 7px, rgba(255, 255, 255, 0.1) 1px, transparent 0);
+    background-size: 16px 16px;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.game_cell:hover {
+    border-color: rgba(255, 255, 255, 0.6);
+    box-shadow:
+        0 0 8px rgba(255, 255, 255, 0.4),
+        inset 0 0 6px rgba(255, 255, 255, 0.2);
+}
+
+/* Custom */
+
+.custom-white-text {
+    color: #fff;
+}
+
+.custom-black-bg {
+    background: #000;
+}
