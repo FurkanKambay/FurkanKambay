@@ -1,3 +1,5 @@
+[<img alt="Unity Certified Associate: Programmer badge" width="128" align="right" loading="lazy" src="https://images.credly.com/images/d1f43356-4e1e-424a-99e3-65636d7bc4fd/image.png" />][cert]
+
 <p align="center">
    <a href="https://furkankambay.itch.io/">itch.io</a> •
    <a href="https://www.linkedin.com/in/furkankambay/">LinkedIn</a> •
@@ -5,9 +7,9 @@
    <a href="mailto:contact@furkankambay.com">Contact me</a>
 </p>
 
-[<img alt="Unity Certified Associate: Programmer badge" width="128" align="right" loading="lazy" src="https://images.credly.com/images/d1f43356-4e1e-424a-99e3-65636d7bc4fd/image.png" />][cert]
-
 Hi! I'm a self-taught and [Unity Certified][cert] game developer looking to get into the video game industry.
+
+## Showcase
 
 | **Project Tulip**                                                                                                                                                  | **Playing By Ear**                                                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -15,13 +17,13 @@ Hi! I'm a self-taught and [Unity Certified][cert] game developer looking to get 
 | [<img height="48" alt="itch.io badge" loading="lazy" src="https://static.itch.io/images/badge-color.svg" />][itch-tulip]                                           | [<img height="48" alt="itch.io badge" loading="lazy" src="https://static.itch.io/images/badge-color.svg" />][itch-pbe]                                              |
 | [<img width="380" alt="combat in Project Tulip" loading="lazy" src="https://img.itch.zone/aW1hZ2UvMjgyOTg2OS8xNzI4NjkzMS5naWY=/250x600/WfyqMy.gif" />][itch-tulip] | [<img width="380" alt="Playing By Ear gameplay" loading="lazy" src="https://img.itch.zone/aW1hZ2UvMjkwOTQ4OC8xNzQ2MDU3My5naWY=/original/6O6%2BL1.gif" />][itch-pbe] |
 
-### Games
+## Games
 
 - [Tulip][itch-tulip] — Passion project: work-in-progress platformer game.
 - [Lokpik][gh-lokpik] — Realistic(ish) lockpicking mechanic in Unity.
 - [Playing By Ear][itch-pbe] — Keep the band of toys in the correct musical scale!
 - [Wee Wizard Warfare][itch-www] — Defend your tower with the [wuxing][itch-www-wuxing] system!
-- [Help! My Lungs were turned into a Jetpack][itch-lungs] — Downwell... but up!
+- [Help! My Lungs were Turned into a Jetpack][itch-lungs] — Downwell... but up!
 
 <!-- References -->
 [gh-tulip]: https://github.com/FurkanKambay/Tulip
