@@ -19,19 +19,21 @@ Hi! I'm a self-taught and [Unity Certified][cert] game developer looking to get 
 
 ## Games
 
-- [Tulip][itch-tulip] — Passion project: work-in-progress platformer game.
-- [Lokpik][gh-lokpik] — Realistic(ish) lockpicking mechanic in Unity.
-- [Playing By Ear][itch-pbe] — Keep the band of toys in the correct musical scale!
-- [Wee Wizard Warfare][itch-www] — Defend your tower with the [wuxing][itch-www-wuxing] system!
-- [Help! My Lungs were Turned into a Jetpack][itch-lungs] — Downwell... but up!
+- [Mechapod][itch-mechapod] — Isometric action game with melee combat, enemy waves, and ability upgrades
+- [Tulip][itch-tulip] — Open-world action platformer (passion project)
+- [Playing By Ear][itch-pbe] — Keep a band of toys in the correct musical scale by parrying their mistakes (top 1.5% of jam submissions)
+- [Jetpack Lungs][itch-lungs] — Physics-based action game: deal with enemies and navigate through tight levels
+- [Wee Wizard Warfare][itch-www] — Defend your tower using elemental spells inspired by the [wuxing][itch-www-wuxing] system
+- [Lokpik][gh-lokpik] — Lockpicking system based on the single pin picking method
 
 <!-- References -->
-[gh-tulip]: https://github.com/FurkanKambay/Tulip
-[gh-lokpik]: https://github.com/FurkanKambay/Lokpik
-[itch-tulip]: https://furkankambay.itch.io/tulip
-[itch-pbe]: https://thevan4.itch.io/playing-by-ear
+[gh-tulip]: https://furkankambay.com/tulip
+[gh-lokpik]: https://furkankambay.com/lokpik
+[itch-tulip]: https://furkankambay.com/tulip
+[itch-mechapod]: https://furkankambay.com/mechapod
+[itch-pbe]: https://furkankambay.com/pbe
 [itch-pbe-rate]: https://itch.io/jam/gmtk-2024/rate/2909488
-[itch-www]: https://furkankambay.itch.io/wee-wizard-warfare
+[itch-www]: https://furkankambay.com/www
 [itch-www-wuxing]: https://en.wikipedia.org/wiki/Wuxing_(Chinese_philosophy)
-[itch-lungs]: https://cauliflauer.itch.io/micro-jam
+[itch-lungs]: https://furkankambay.com/lungs
 [cert]: https://www.credly.com/badges/80aec29d-fc64-4b25-b3b8-07c3d5196e08
