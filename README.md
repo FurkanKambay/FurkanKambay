@@ -1,11 +1,13 @@
-[<img alt="Unity Certified Associate: Programmer badge" width="128" align="right" loading="lazy" src="https://images.credly.com/images/d1f43356-4e1e-424a-99e3-65636d7bc4fd/image.png" />][cert]
+[<img alt="Unity Certified Associate: Programmer badge" width="160" align="right" loading="lazy" src="https://images.credly.com/images/d1f43356-4e1e-424a-99e3-65636d7bc4fd/image.png" />][cert]
 
 <p align="center">
    <a href="https://furkankambay.itch.io/">itch.io</a> •
    <a href="https://www.linkedin.com/in/furkankambay/">LinkedIn</a> •
    <a href="https://app.hackthebox.eu/profile/122166">Hack The Box</a> •
-   <a href="mailto:contact@furkankambay.com">Contact me</a>
+   <a href="mailto:contact@furkankambay.com">Contact me</a> 📨
 </p>
+
+[![My Skills][skills]](https://skillicons.dev)
 
 Hi! I'm a self-taught and [Unity Certified][cert] game developer looking to get into the video game industry.
 
@@ -26,6 +28,10 @@ Hi! I'm a self-taught and [Unity Certified][cert] game developer looking to get 
 - [Wee Wizard Warfare][itch-www] — Defend your tower using elemental spells inspired by the [wuxing][itch-www-wuxing] system
 - [Lokpik][gh-lokpik] — Lockpicking system based on the single pin picking method
 
+## Other Skills
+
+[![My Other Skills][skills-other]](https://skillicons.dev)
+
 <!-- References -->
 [gh-tulip]: https://furkankambay.com/tulip
 [gh-lokpik]: https://furkankambay.com/lokpik
@@ -37,3 +43,6 @@ Hi! I'm a self-taught and [Unity Certified][cert] game developer looking to get 
 [itch-www-wuxing]: https://en.wikipedia.org/wiki/Wuxing_(Chinese_philosophy)
 [itch-lungs]: https://furkankambay.com/lungs
 [cert]: https://www.credly.com/badges/80aec29d-fc64-4b25-b3b8-07c3d5196e08
+
+[skills]: https://skillicons.dev/icons?i=unity,godot,git,cs,dotnet,cpp,py,js,ts,html,css
+[skills-other]: https://skillicons.dev/icons?i=rider,vscode,visualstudio,github,githubactions,obsidian,blender,regex,powershell,bash,windows,linux,kali,arch,lua,qt,neovim,raspberrypi,arduino
