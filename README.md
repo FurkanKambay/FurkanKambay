@@ -15,7 +15,7 @@ Hi! I'm a self-taught and [Unity Certified][cert] game developer looking to get 
 
 | **Mechapod**                                                                                                                                                     | **Project Tulip**                                                                                                                                                  | **Playing By Ear**                                                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Shovel Jam 2025                                                                                                                                                  | Personal project — [GitHub repo][gh-tulip]                                                                                                                         | GMTK Game Jam 2024 ([ranked top 1.5%][itch-pbe-rate])                                                                                                               |
+| Shovel Jam 2025 — [GitHub repo][gh-mechapod]                                                                                                                     | Personal project — [GitHub repo][gh-tulip]                                                                                                                         | GMTK Game Jam 2024 ([ranked top 1.5%][itch-pbe-rate])                                                                                                               |
 | [<img height="48" alt="itch.io badge" loading="lazy" src="https://static.itch.io/images/badge-color.svg" />][itch-mechapod]                                      | [<img height="48" alt="itch.io badge" loading="lazy" src="https://static.itch.io/images/badge-color.svg" />][itch-tulip]                                           | [<img height="48" alt="itch.io badge" loading="lazy" src="https://static.itch.io/images/badge-color.svg" />][itch-pbe]                                              |
 | [<img width="240" alt="Mechapod gameplay" loading="lazy" src="https://img.itch.zone/aW1hZ2UvMzcxMzY2MC8yMjI0MDA1Ny5naWY=/original/r3yigJ.gif" />][itch-mechapod] | [<img width="240" alt="combat in Project Tulip" loading="lazy" src="https://img.itch.zone/aW1hZ2UvMjgyOTg2OS8xNzI4NjkzMS5naWY=/250x600/WfyqMy.gif" />][itch-tulip] | [<img width="240" alt="Playing By Ear gameplay" loading="lazy" src="https://img.itch.zone/aW1hZ2UvMjkwOTQ4OC8xNzQ2MDU3My5naWY=/original/6O6%2BL1.gif" />][itch-pbe] |
 
@@ -33,7 +33,8 @@ Hi! I'm a self-taught and [Unity Certified][cert] game developer looking to get 
 [![My Other Skills][skills-other]](https://skillicons.dev)
 
 <!-- References -->
-[gh-tulip]: https://furkankambay.com/tulip
+[gh-mechapod]: https://furkankambay.com/mechapod/gh
+[gh-tulip]: https://furkankambay.com/tulip/gh
 [gh-lokpik]: https://furkankambay.com/lokpik
 [itch-tulip]: https://furkankambay.com/tulip
 [itch-mechapod]: https://furkankambay.com/mechapod
