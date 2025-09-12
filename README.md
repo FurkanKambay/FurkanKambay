@@ -9,7 +9,7 @@
 
 [![My Skills][skills]](https://skillicons.dev)
 
-Hi! I'm a self-taught and [Unity Certified][cert] game developer looking to get into the video game industry.
+Hi! I'm a [Unity Certified][cert] game developer.
 
 ## Showcase
 
