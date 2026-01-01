@@ -7,9 +7,10 @@
    <a href="mailto:contact@furkankambay.com">Contact me</a> 📨
 </p>
 
+[skills]: https://skillicons.dev/icons?i=unity,godot,cs,dotnet,git,cpp,py,js,ts,html,css,regex
 [![My Skills][skills]](https://skillicons.dev)
 
-Hi! I'm a [Unity Certified][cert] game developer.
+Hey! I'm a game designer and [Unity Certified][cert] game developer.
 
 ## Showcase
 
@@ -23,14 +24,11 @@ Hi! I'm a [Unity Certified][cert] game developer.
 
 - [Mechapod][itch-mechapod] — Isometric action game with melee combat, enemy waves, and ability upgrades
 - [Tulip][itch-tulip] — Open-world action platformer (passion project)
+- [Supply Run][itch-supplyrun] — Survive and provide for your tribe in a world overrun with superintelligent robots.
 - [Playing By Ear][itch-pbe] — Keep a band of toys in the correct musical scale by parrying their mistakes (top 1.5% of jam submissions)
 - [Jetpack Lungs][itch-lungs] — Physics-based action game: deal with enemies and navigate through tight levels
-- [Wee Wizard Warfare][itch-www] — Defend your tower using elemental spells inspired by the [wuxing][itch-www-wuxing] system
+- [Wee Wizard Warfare][itch-www] — Defend your tower against a wizard using elemental spells.
 - [Lokpik][gh-lokpik] — Lockpicking system based on the single pin picking method
-
-## Other Skills
-
-[![My Other Skills][skills-other]](https://skillicons.dev)
 
 <!-- References -->
 [gh-mechapod]: https://furkankambay.com/mechapod/gh
@@ -38,12 +36,9 @@ Hi! I'm a [Unity Certified][cert] game developer.
 [gh-lokpik]: https://furkankambay.com/lokpik
 [itch-tulip]: https://furkankambay.com/tulip
 [itch-mechapod]: https://furkankambay.com/mechapod
+[itch-supplyrun]: https://furkankambay.com/supplyrun
 [itch-pbe]: https://furkankambay.com/pbe
 [itch-pbe-rate]: https://itch.io/jam/gmtk-2024/rate/2909488
 [itch-www]: https://furkankambay.com/www
-[itch-www-wuxing]: https://en.wikipedia.org/wiki/Wuxing_(Chinese_philosophy)
 [itch-lungs]: https://furkankambay.com/lungs
 [cert]: https://www.credly.com/badges/80aec29d-fc64-4b25-b3b8-07c3d5196e08
-
-[skills]: https://skillicons.dev/icons?i=unity,godot,git,cs,dotnet,cpp,py,js,ts,html,css
-[skills-other]: https://skillicons.dev/icons?i=rider,vscode,visualstudio,github,githubactions,obsidian,blender,regex,powershell,bash,windows,linux,kali,arch,lua,qt,neovim,raspberrypi,arduino
