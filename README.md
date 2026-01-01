@@ -7,7 +7,7 @@
    <a href="mailto:contact@furkankambay.com">Contact me</a> 📨
 </p>
 
-[skills]: https://skillicons.dev/icons?i=unity,godot,cs,dotnet,git,cpp,py,js,ts,html,css,regex
+[skills]: https://skillicons.dev/icons?i=unity,godot,cs,dotnet,git,cpp,py,js,ts,html,css
 [![My Skills][skills]](https://skillicons.dev)
 
 Hey! I'm a game designer and [Unity Certified][cert] game developer.
