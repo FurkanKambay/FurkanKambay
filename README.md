@@ -1,16 +1,13 @@
-[<img alt="Unity Certified Associate: Programmer badge" width="160" align="right" loading="lazy" src="https://images.credly.com/images/d1f43356-4e1e-424a-99e3-65636d7bc4fd/image.png" />][cert]
+[<img alt="Unity Certified Associate: Programmer badge" width="140" align="right" loading="lazy" src="https://images.credly.com/images/d1f43356-4e1e-424a-99e3-65636d7bc4fd/image.png" />][cert]
 
 <p align="center">
    <a href="https://furkankambay.itch.io/">itch.io</a> •
    <a href="https://www.linkedin.com/in/furkankambay/">LinkedIn</a> •
-   <a href="https://app.hackthebox.eu/profile/122166">Hack The Box</a> •
+   <a href="https://app.hackthebox.com/public/users/122166">Hack The Box</a> •
    <a href="mailto:contact@furkankambay.com">Contact me</a> 📨
 </p>
 
-[skills]: https://skillicons.dev/icons?i=unity,godot,cs,dotnet,git,cpp,py,js,ts,html,css
-[![My Skills][skills]](https://skillicons.dev)
-
-Hey! I'm a game designer and [Unity Certified][cert] game developer.
+I am a [Unity Certified][cert] game developer and game designer.
 
 ## Showcase
 
@@ -18,7 +15,7 @@ Hey! I'm a game designer and [Unity Certified][cert] game developer.
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Shovel Jam 2025 — [GitHub repo][gh-mechapod]                                                                                                                     | Personal project — [GitHub repo][gh-tulip]                                                                                                                         | GMTK Game Jam 2024 ([ranked top 1.5%][itch-pbe-rate])                                                                                                               |
 | [<img height="48" alt="itch.io badge" loading="lazy" src="https://static.itch.io/images/badge-color.svg" />][itch-mechapod]                                      | [<img height="48" alt="itch.io badge" loading="lazy" src="https://static.itch.io/images/badge-color.svg" />][itch-tulip]                                           | [<img height="48" alt="itch.io badge" loading="lazy" src="https://static.itch.io/images/badge-color.svg" />][itch-pbe]                                              |
-| [<img width="240" alt="Mechapod gameplay" loading="lazy" src="https://img.itch.zone/aW1hZ2UvMzcxMzY2MC8yMjI0MDA1Ny5naWY=/original/r3yigJ.gif" />][itch-mechapod] | [<img width="240" alt="combat in Project Tulip" loading="lazy" src="https://img.itch.zone/aW1hZ2UvMjgyOTg2OS8xNzI4NjkzMS5naWY=/250x600/WfyqMy.gif" />][itch-tulip] | [<img width="240" alt="Playing By Ear gameplay" loading="lazy" src="https://img.itch.zone/aW1hZ2UvMjkwOTQ4OC8xNzQ2MDU3My5naWY=/original/6O6%2BL1.gif" />][itch-pbe] |
+| [<img width="240" alt="Mechapod gameplay" loading="lazy" src="https://img.itch.zone/aW1hZ2UvMzcxMzY2MC8yMjI0MDA1Ny5naWY=/original/r3yigJ.gif" />][itch-mechapod] | [<img width="240" alt="combat in Project Tulip" loading="lazy" src="https://img.itch.zone/aW1hZ2UvMjgyOTg2OS8xNzI4NjkzMS5naWY=/original/VXPknQ.gif" />][itch-tulip] | [<img width="240" alt="Playing By Ear gameplay" loading="lazy" src="https://img.itch.zone/aW1hZ2UvMjkwOTQ4OC8xNzQ2MDU3My5naWY=/original/6O6%2BL1.gif" />][itch-pbe] |
 
 ## Games
 
