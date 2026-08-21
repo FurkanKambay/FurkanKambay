@@ -187,3 +187,14 @@ a.custom-lb {
 .custom-black-bg {
     background: #000;
 }
+
+.custom-dotted-link {
+    text-decoration-style: dotted;
+    text-decoration-thickness: 0.2rem;
+}
+
+.game_cell:hover>.game_thumb {
+    border-radius: 0;
+    margin: -10px;
+    margin-bottom: -6px;
+}
