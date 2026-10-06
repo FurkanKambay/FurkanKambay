@@ -9,7 +9,7 @@
 
 I am a [Unity Certified][cert] game developer and game designer.
 
-![Open to full time work!](assets/hire-me.svg)
+[![Open to full time work!](assets/hire-me.svg)](https://www.linkedin.com/in/furkankambay/)
 
 ## Showcase
 
