@@ -9,8 +9,6 @@
 
 I am a [Unity Certified][cert] game developer and game designer.
 
-[![Open to full time work!](assets/hire-me.svg)](https://www.linkedin.com/in/furkankambay/)
-
 ## Showcase
 
 | [Mechapod][gh-mechapod] — [video][mechapod-gameplay]                                                                                                           | [Tulip][gh-tulip]                                                                                                                                                 | Playing By Ear — [top 1.5%][itch-pbe-rate]                                                                                                                        |
